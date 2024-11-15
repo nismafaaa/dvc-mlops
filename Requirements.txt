@@ -1,0 +1,10 @@
+# Data Manipulation
+pandas
+
+# Machine Learning
+scikit-learn
+lightgbm
+catboost
+
+# Statistical Analysis
+scipy
